@@ -27,9 +27,12 @@ export default {
         
 "error": "#f53b38",
         },
+     
       },
+   
     ],
   },
-  plugins: [require("daisyui")],
+  plugins: [
+    require("daisyui")],
 }
 

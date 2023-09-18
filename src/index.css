@@ -1,3 +1,15 @@
+/* src/index.css */
+@font-face {
+    font-family: 'Hind Siliguri';
+    src: url('./fonts/HindSiliguri-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+  /* Apply the font to elements */
+  .font-hind-siliguri {
+    font-family: 'Hind Siliguri', sans-serif;
+  }
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
