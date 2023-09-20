@@ -10,7 +10,7 @@ import SellingMachineWork from "./SellingMachineWork";
 
 const Home = () => {
     return (
-        <section>
+        <section className="font-hind-siliguri">
             <div className="bg-primary  p-3 pb-8">
             
             <h2 className="text-white text-center text-xl   lg:text-2xl md:text-xl font-body font-hind-siliguri">সর্বোচ্চ প্রায় ৯৭% ছাড়ে এনরোল নিন এখনই, অফার সীমিত সময়ের জন্য প্রযোজ্য!</h2>

@@ -16,7 +16,7 @@ const SecrateOne = () => {
                 </div>
               
                 <div className='mt-16 w-full lg:w-2/4'>
-               <ReactPlayer  url='https://youtu.be/ru3B0EmlR-s' />
+               <ReactPlayer width='90%'  url='https://youtu.be/ru3B0EmlR-s' />
                </div>              
             </div>
         </div>

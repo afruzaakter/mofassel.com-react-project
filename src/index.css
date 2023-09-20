@@ -1,14 +1,11 @@
 /* src/index.css */
-@font-face {
-    font-family: 'Hind Siliguri';
-    src: url('./fonts/HindSiliguri-Regular.ttf') format('truetype');
-    font-weight: normal;
-    font-style: normal;
-  }
-  
+@import url('https://fonts.googleapis.com/css2?family=Hind+Siliguri:wght@300;400;500;600;700&family=Noto+Sans+Bengali:wght@300;400;500;600;700;800;900&family=Roboto+Condensed:ital,wght@0,300;0,400;0,700;1,400&family=Roboto:wght@400;500;700;900&display=swap');
   /* Apply the font to elements */
   .font-hind-siliguri {
     font-family: 'Hind Siliguri', sans-serif;
+    font-family: 'Noto Sans Bengali', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif; 
   }
 @tailwind base;
 @tailwind components;
