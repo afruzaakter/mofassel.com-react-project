@@ -75,7 +75,7 @@ const ReviewSection = () => {
                      <div>
                      <div className="text-xl">Antar Dey</div>
                      <div className=" text-gray-500 text-[16px]">9 months ago</div>
-                      <div className="lg:rating  rating-sm lg:ml-2 bg-blue-600 space-x-2 ">
+                      <div className="lg:rating  rating-sm lg:ml-2  space-x-2 ">
                             <input type="radio" name="rating-7" className="mask mask-star-2 bg-blue-600 mt-1" />
                             <input type="radio" name="rating-7" className="mask mask-star-2 bg-blue-600 mt-1"/>
                             <input type="radio" name="rating-7" className="mask mask-star-2 bg-blue-600 mt-1"/>

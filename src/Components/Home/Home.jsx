@@ -7,6 +7,7 @@ import SecrateTwo from "./SecrateTwo";
 import SellingMachineSecrate from "./SellingMachineSecrate";
 import SellingMachineSecrateCard from "./SellingMachineSecrateCard";
 import SellingMachineWork from "./SellingMachineWork";
+import SellingMachingPricing from "./SellingMachingPricing";
 
 const Home = () => {
     return (
@@ -39,7 +40,7 @@ const Home = () => {
         <SecrateThree/>
         <Categori/>
         <ReviewSection/>
-
+        <SellingMachingPricing/>
 
         <ContactUs/>
         </section>
