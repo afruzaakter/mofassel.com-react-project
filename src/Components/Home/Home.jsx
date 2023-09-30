@@ -1,5 +1,6 @@
 import Categori from "./Categori";
 import ContactUs from "./ContactUs";
+import OrderSection from "./OrderSection";
 import ReviewSection from "./ReviewSection";
 import SecrateOne from "./SecrateOne";
 import SecrateThree from "./SecrateThree";
@@ -14,7 +15,7 @@ const Home = () => {
         <section className="font-hind-siliguri">
             <div className="bg-primary  p-3 pb-8">
             
-            <h2 className="text-white text-center text-xl   lg:text-2xl md:text-xl font-body font-hind-siliguri">সর্বোচ্চ প্রায় ৯৭% ছাড়ে এনরোল নিন এখনই, অফার সীমিত সময়ের জন্য প্রযোজ্য!</h2>
+            <h2 className="text-white text-center text-xl   lg:text-2xl md:text-xl font-body ">সর্বোচ্চ প্রায় ৯৭% ছাড়ে এনরোল নিন এখনই, অফার সীমিত সময়ের জন্য প্রযোজ্য!</h2>
             
        <div>
         <div className="text-black text-center text-4xl mt-8 font-bold ">
@@ -41,6 +42,7 @@ const Home = () => {
         <Categori/>
         <ReviewSection/>
         <SellingMachingPricing/>
+        <OrderSection/>
 
         <ContactUs/>
         </section>

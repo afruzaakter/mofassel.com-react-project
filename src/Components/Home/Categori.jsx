@@ -3,7 +3,7 @@ import { FaCheckDouble } from 'react-icons/fa';
 const Categori = () => {
     return (
             <div >
-                 <h2 className="text-center fon-hind-siliguri text-3xl text-secondary mt-24 mb-8 font-bold">সেলিং মেশিন মাল্টিপল মাধ্যমে প্রচার করে যেকোন পন্য/সেবা সেলস্‌ করতে পারবেন</h2>
+                 <h2 className="text-center fon-hind-siliguri text-[30px] text-secondary mt-24 mb-8 font-bold leading-[60px]">সেলিং মেশিন মাল্টিপল মাধ্যমে প্রচার করে যেকোন পন্য/সেবা সেলস্‌ করতে পারবেন</h2>
           <div className='flex flex-col lg:flex-row justify-around items-center gap-8 p-10'>
           <div className="md:w-2/4 w-full  bg-white shadow-xl ">
              <div className="card-body items-center text-center">
