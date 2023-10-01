@@ -1,6 +1,6 @@
 
 import './App.css'
-// import Footer from './Components/Home/Footer/Footer';
+import Footer from './Components/Home/Footer/Footer';
 import Home from './Components/Home/Home';
 
 const App = () => {
@@ -8,7 +8,7 @@ const App = () => {
         <div className='bg-white font-hind-siliguri w-full'>
           
            <Home></Home>
-           {/* <Footer/> */}
+           <Footer/>
          
 
         </div>
