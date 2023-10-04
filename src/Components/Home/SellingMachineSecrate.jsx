@@ -6,7 +6,7 @@ const SellingMachineSecrate = () => {
     <div className='max-w-s w-full pt-14 font-hind-siliguri'>
       <div className="flex flex-col lg:flex-row gap-x-10 ">
         <div className='lg:w-2/4 lg:ml-10 ml-6'>
-          <h1 className="text-primary lg:text-5xl text-2xl font-bold mb-6  font-body">সেলিং মেশিন সিক্রেটস্‌</h1>
+          <h1 className="text-primary lg:text-5xl text-3xl font-bold mb-6  font-body">সেলিং মেশিন সিক্রেটস্‌</h1>
           <h2 className="text-black text-2xl font-semibold  mb-5 md:text-3xl font-body">আমরা সেলিং মেশিনের মাধ্যমে উদ্যোক্তাদের ব্যবসার সেলস্‌ বাড়াতে সহযোগীতা করি
           </h2>
           <p className='text-2xl md:text-3xl  text-black '>
