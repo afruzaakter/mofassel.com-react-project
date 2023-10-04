@@ -27,11 +27,18 @@ export default {
         
 "error": "#f53b38",
         },
+        
+        extend:{
+          fontFamily: {
+            body : ['Hind Siliguri', 'sans-serif']
+          }
+        },
      
       },
-   
-    ],
+    ]
+
   },
+
   plugins: [
     require("daisyui")],
 }

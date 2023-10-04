@@ -1,5 +1,6 @@
 import Categori from "./Categori";
 import ContactUs from "./ContactUs";
+import Faq from "./FAQ/Faq";
 import OrderSection from "./OrderSection";
 import ReviewSection from "./ReviewSection";
 import SecrateOne from "./SecrateOne";
@@ -12,7 +13,7 @@ import SellingMachingPricing from "./SellingMachingPricing";
 
 const Home = () => {
     return (
-        <section className="font-hind-siliguri">
+        <section className="  ">
             <div className="bg-primary  p-3 pb-8">
             
             <h2 className="text-white text-center text-xl   lg:text-2xl md:text-xl font-body ">সর্বোচ্চ প্রায় ৯৭% ছাড়ে এনরোল নিন এখনই, অফার সীমিত সময়ের জন্য প্রযোজ্য!</h2>
@@ -43,7 +44,7 @@ const Home = () => {
         <ReviewSection/>
         <SellingMachingPricing/>
         <OrderSection/>
-
+         <Faq/>
         <ContactUs/>
         </section>
     );
