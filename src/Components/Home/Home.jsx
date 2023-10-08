@@ -1,7 +1,7 @@
 import Categori from "./Categori";
 import ContactUs from "./ContactUs";
 import Faq from "./FAQ/Faq";
-import RoundedDesign from "./FAQ/RoundedDesign";
+// import RoundedDesign from "./FAQ/RoundedDesign";
 import OrderSection from "./OrderSection";
 import ReviewSection from "./ReviewSection";
 import SecrateOne from "./SecrateOne";
